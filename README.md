@@ -1,3 +1,6 @@
+# testesCypresIntermed
+Dedicado à praticar aprendizados do curso Cypress Intermediário
+
 # Testes automatizados com Cypress - Intermediário
 
 👋 Seja bem-vinda(o)!
